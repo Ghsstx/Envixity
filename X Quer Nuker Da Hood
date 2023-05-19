@@ -1,0 +1,25 @@
+game:GetService("StarterGui"):SetCore("SendNotification",{ 	
+
+Title = "wait...",  	
+
+Text = "loading...",
+
+})
+
+game:GetService("StarterGui"):SetCore("SendNotification",{ 	
+
+Title = "Welcome to Envixity X Quer Nuker Da Hood",  	
+
+Text = "Made By Envixity#7381",
+
+})
+
+game:GetService("StarterGui"):SetCore("SendNotification",{ 	
+
+Title = "UI Credits: TheNcore#5063",  	
+
+Text = "Script UP-DATED 5/19/23",
+
+})
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Ghsstx/Quer-X-Nuker/main/Envixity%20Da%20Hood", true))()
